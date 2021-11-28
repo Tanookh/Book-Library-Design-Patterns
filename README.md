@@ -1,5 +1,5 @@
 # BookLibrary-DesignPatterns
-BookLibraryU - is an updated version with the use of design patters.
+BookLibraryU - is an updated version with the use of design patterns.
 
 This project summarizes the use of the DAO design pattern, while connecting with a different class to make the connection more secured.
 
